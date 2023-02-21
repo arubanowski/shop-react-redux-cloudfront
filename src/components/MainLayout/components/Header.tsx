@@ -33,7 +33,7 @@ export default function Header() {
             underline="none"
             to="/"
           >
-            My Store!
+            Mój Sklep Internetowy (My online store)!
           </Link>
         </Typography>
 
