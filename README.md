@@ -1,4 +1,4 @@
-# Task 2.1
+# Task 2.2
 
 S3 bitbucket url - *https://manual-s3-spa-container.s3.amazonaws.com/index.html*
 CloudFront url   - *https://d2tafj7z05t1tx.cloudfront.net/*
